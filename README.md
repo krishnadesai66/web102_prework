@@ -26,16 +26,16 @@ Here's a walkthrough of implemented features:
 <img src='https://imgur.com/a/1yFMTOF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
+
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-I did have one specific challenge with Challenge 4 where I was looping to find the sum of the backers but it was not appearing on the LiverServer. This was actually due to a careless error formed earlier in Challenge 3 where I was looping through every item in the data. Instead of looping for "i < games.length," I was looping "i <= games.length" which I saw was causing an error in the console log; I was using the console log to print log statements to find the error. games[i] would then be trying to access a undefined element when i would equal 12. 
+I did have one specific challenge with Challenge 4 where I was looping to find the sum of the backers but it was not appearing on the LiverServer. This was actually due to a careless error formed earlier in Challenge 3 where I was looping through every item in the data. Instead of looping for "i < games.length," I was looping "i <= games.length" which I saw was causing an error in the console log; I was using the console log to print log statements to find the error. games[i] would then be trying to access an undefined element when i would equal 12. 
 
 ## License
 
