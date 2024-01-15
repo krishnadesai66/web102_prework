@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/1yFMTOF' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYyaGp3OG1pbTI1NGQ2MXh2c2txd2gwc2RycHg0OXl4MTZ6bjV0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDrPGQ6E3NPP9AKvw2/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app:
 I did have one specific challenge with Challenge 4 where I was looping to find the sum of the backers but it was not appearing on the LiverServer. This was actually due to a careless error formed earlier in Challenge 3 where I was looping through every item in the data. Instead of looping for "i < games.length," I was looping "i <= games.length" which I saw was causing an error in the console log; I was using the console log to print log statements to find the error. games[i] would then be trying to access an undefined element when i would equal 12. 
 
 ## License
