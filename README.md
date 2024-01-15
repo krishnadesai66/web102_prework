@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<imgsrc='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYyaGp3OG1pbTI1NGQ2MXh2c2txd2gwc2RycHg0OXl4MTZ6bjV0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDrPGQ6E3NPP9AKvw2/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <a href = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYyaGp3OG1pbTI1NGQ2MXh2c2txd2gwc2RycHg0OXl4MTZ6bjV0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDrPGQ6E3NPP9AKvw2/giphy.gif">Video Walkthrough</a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
